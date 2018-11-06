@@ -1,0 +1,2 @@
+class UnitFeature < ApplicationRecord
+end

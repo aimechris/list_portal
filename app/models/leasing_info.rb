@@ -1,0 +1,2 @@
+class LeasingInfo < ApplicationRecord
+end

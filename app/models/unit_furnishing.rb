@@ -1,0 +1,2 @@
+class UnitFurnishing < ApplicationRecord
+end

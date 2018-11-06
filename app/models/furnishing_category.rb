@@ -1,0 +1,2 @@
+class FurnishingCategory < ApplicationRecord
+end

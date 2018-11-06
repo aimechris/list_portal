@@ -1,0 +1,2 @@
+class ParentUnitImage < ApplicationRecord
+end

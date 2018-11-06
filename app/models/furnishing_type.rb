@@ -1,0 +1,2 @@
+class FurnishingType < ApplicationRecord
+end

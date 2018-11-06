@@ -1,0 +1,2 @@
+class ParentUnit < ApplicationRecord
+end

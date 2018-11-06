@@ -1,0 +1,2 @@
+class ParentUnitAccessibility < ApplicationRecord
+end
